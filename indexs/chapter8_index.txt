@@ -1,0 +1,62 @@
+isomap algorithm
+    Randomized PCA algorithm
+    unsupervised learning
+    compression
+    curse of dimensionality
+    compressing
+    decompressing
+    reconstruction error
+    reducing dimensionality
+    dimensionality reduction
+    decompression
+    LLE
+    Locally Linear Embedding
+    PCA
+    Principal Component Analysis
+    explained variance ratio
+    feature maps
+    feature space
+    Incremental PCA
+    IPCA
+    inverse transformation
+    Kernel PCA
+    kPCA
+    kernel trick
+    kernels
+    Linear Discriminant Analysis
+    LDA
+    manifold assumption
+    manifold hypothesis
+    Manifold Learning
+    Multidimensional Scaling
+    MDS
+    nonlinear dimensionality reduction
+    NLDR
+    array_split() function
+    memmap class
+    svd() function
+    original space
+    choosing dimension number
+    for compression
+    incremental
+    preserving variance
+    principal component axis
+    projecting down to d dimensions
+    randomized
+    pre-images
+    projection
+    random projections
+    Randomized PCA
+    reconstruction pre-images
+    automatic reconstruction with
+    full SVD approach
+    IncrementalPCA class
+    KernelPCA class
+    PCAng
+    Singular Value Decomposition
+    SVD
+    subspace
+    t-Distributed Stochastic Neighbor Embedding
+    t-SNE
+    training instances
+    preserving

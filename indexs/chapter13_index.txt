@@ -1,0 +1,53 @@
+bag of words
+    encoding using embeddings
+    encoding using one-hot vectors
+    chaining transformations
+    helper function creation
+    prefetching
+    preprocessing
+    shuffling
+    using datasets with tf.Keras
+    TensorFlow Data API
+    prefetching data
+    preprocessing data
+    shuffling data
+    using datasets with tf.keras
+    datasets
+    embedding
+    embedding matrix
+    helper functions
+    preprocessing layers
+    lists of lists using SequenceExample Protobuf
+    memory bandwidth
+    CNNs
+    one-hot vectors
+    out-of-vocabulary
+    oov
+    pipelines
+    protocol buffers
+    protobufs
+    representation learning
+    SequenceExample protobuf
+    shuffling-buffer approach
+    TensorFlow Extended
+    TFX
+    Data API
+    preprocessing input features
+    TensorFlow Datasets
+    TFDS
+    TF Transform
+    TFRecord format
+    Term-Frequency × Inverse-Document-Frequency
+    TF-IDF
+    TF Datasets
+    tf.Transform
+    tf.keras
+    compressed TFRecord files
+    lists of lists using SequenceExample Proto‐buf
+    loading and parsing examples
+    TensorFlow protobufs
+    training/serving skew
+    chaining
+    vocabulary
+    voice recognition
+    word embeddings

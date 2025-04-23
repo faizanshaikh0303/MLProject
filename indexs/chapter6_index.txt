@@ -1,0 +1,48 @@
+CART training algorithm
+    greedy algorithms
+    binary trees
+    black box models
+    chi-squared test
+    Classification and Regression Tree
+    CART
+    voting classifiers
+    mean squared error
+    Decision Trees
+    computational complexity
+    estimating class probabilities
+    Gini impurity versus entropy
+    instability drawbacks
+    making predictions
+    regression tasks
+    regularization hyperparameters
+    Ensemble Learning
+    Random Forests
+    Ensemble methods
+    ensembles
+    entropy impurity measure
+    Gini impurity measure
+    impurity
+    information theory
+    instability
+    leaf nodes
+    majority-vote predictions
+    parametric versus nonparametric
+    white versus black box
+    nonparametric models
+    NP-Complete problem
+    null hypothesis
+    p-value
+    parametric models
+    prediction problems
+    pruning
+    hyperparameters for Decision Trees
+    root nodes
+    DecisionTreeRegressor class
+    max_depth hyperparameter
+    presorting data with
+    random_state hyperparameter
+    Shannon's information theory
+    statistical significance
+    training set rotation
+    white box models
+    wisdom of the crowd

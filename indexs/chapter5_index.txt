@@ -1,0 +1,45 @@
+hard margin classification
+    nonlinear SVM classification
+    soft margin classification
+    constrained optimization
+    hinge loss
+    feature scaling
+    Decision Trees
+    training and visualizing
+    dual problem
+    Gaussian Radial Basis Function
+    RBF
+    hinge loss function
+    hyperplanes
+    kernel trick
+    kernelized SVM
+    kernels
+    landmarks
+    Levenshtein distance
+    liblinear library
+    libsvm library
+    Machine Learning
+    ML
+    margin violations
+    Mercer's conditions
+    Mercer's theorem
+    online SVMs
+    polynomial features
+    polynomial kernels
+    primal problem
+    Quadratic Programming
+    QP
+    Radial Basis Function
+    SVM regression
+    SVM classification classes
+    SVM models
+    tolerance hyperparameter
+    sigmoid kernel
+    similarity functions
+    slack variables
+    string kernels
+    string subsequence kernel
+    subderivatives
+    decision function and prediction
+    training objective
+    support vectors

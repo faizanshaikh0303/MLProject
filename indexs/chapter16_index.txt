@@ -1,0 +1,82 @@
+softmax
+    additive attention
+    attention mechanism
+    explainability and
+    Transformer architecture
+    visual attention
+    autoencoders
+    Bahdanau attention
+    beam search
+    beam width
+    bidirectional recurrent layers
+    bidirectional RNNs
+    Byte-Pair Encoding
+    character RNNs
+    Char-RNNs
+    building and training
+    chopping sequential datasets
+    generating Shakespearean text
+    splitting sequential datasets
+    stateful RNNs and
+    training dataset creation
+    concatenative attention
+    conditional probability
+    loss functions
+    flat datasets
+    Google News 7B corpus
+    Internet Movie Database
+    nested datasets
+    dense vectors
+    dot product
+    Embedded Reber grammars
+    Encoder–Decoder model
+    end-of-sequence
+    EoS
+    entailment
+    explainability
+    StyleGANs
+    language models
+    latent representations
+    bidirectional recurrent layer
+    Masked Multi-Head Attention layer
+    Multi-Head Attention layer
+    Scaled Dot-Product Attention layer
+    see cost functions
+    mask tensors
+    masked language model
+    MLM
+    masking
+    modules
+    multiplicative attention
+    natural language processing
+    NLP
+    attention mechanisms
+    Encoder–Decoder network
+    generating text using character RNNs
+    sentiment analysis
+    neural machine translation
+    NMT
+    next sentence prediction
+    NSP
+    positional encodings
+    reusing pretrained embeddings
+    generating text using character RNNS
+    stateless and stateful
+    regular expressions
+    sampled softmax technique
+    self-attention mechanism
+    sentence encoders
+    softmax function
+    start of sequence
+    SoS
+    temperature
+    TensorFlow Addons
+    TensorFlow Hub
+    testing and validation
+    text generation
+    TF.Text library
+    tokenization
+    truncated backpropagation through time
+    word tokenization
+    zero-shot learning
+    ZSL

@@ -1,0 +1,79 @@
+Logistic
+    sigmoid
+    argmax operator
+    Batch Gradient Descent
+    bias terms
+    bias/variance trade-off
+    calculus
+    large margin classification
+    linear SVM classification
+    closed-form solution
+    column vectors
+    convergence
+    convex function
+    cross-entropy loss
+    log loss
+    mean squared error
+    iris dataset
+    decision boundaries
+    computational complexity
+    early stopping
+    Elastic Net
+    epochs
+    feature vector
+    Full Gradient Descent
+    global minimum
+    Gradient Descent
+    GD
+    Mini-batch Gradient Descent
+    Stochastic Gradient Descent
+    learning rate
+    identity matrix
+    independent and identically distributed
+    IID
+    random initialization
+    intercept terms
+    Kullback–Leibler divergence
+    Lasso Regression
+    learning curves
+    learning schedules
+    linear algebra
+    Linear Regression model
+    approaches to training
+    Normal Equation
+    local minimum
+    log-odds
+    Logistic Regression
+    estimating probabilities
+    Softmax Regression
+    training and cost function
+    logit
+    RMSE
+    mini-batches
+    Multinomial Logistic Regression
+    normalized exponential
+    inv() function
+    SGD
+    parameter matrix
+    parameter space
+    parameter vector
+    partial derivatives
+    Polynomial Regression
+    Linear Regression
+    Ridge Regression
+    regularization terms
+    regularized linear models
+    Root Mean Square Error
+    linear regression
+    simulated annealing
+    Singular Value Decomposition
+    SVD
+    softmax function
+    subgradient vector
+    Support Vector Machines
+    SVMs
+    Tikhonov regularization
+    tolerance
+    feature vectors
+    parameter vectors
+    subgradient vectors

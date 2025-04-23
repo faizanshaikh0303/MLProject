@@ -1,0 +1,82 @@
+ 1cycle scheduling
+    exponential linear unit
+    ELU
+    Logistic
+    sigmoid
+    nonsaturating
+    Scaled Exponential Linear Unit
+    SELU
+    AdaGrad
+    Adam and Nadam optimization
+    adaptive learning rate
+    adaptive moment estimation
+    restricted Boltzmann machines
+    RBMs
+    Batch Normalization
+    BN
+    training sparse models
+    overfitting
+    default configuration
+    faster optimizers
+    reusing pretrained layers
+    vanishing/exploding gradients problems
+    dropout
+    dying ReLUs problem
+    exploding gradients problem
+    exponential scheduling
+    fan-in/fan-out numbers
+    first-order partial derivatives
+    Jacobians
+    Glorot and He initialization
+    gradient clipping
+    greedy layer-wise pretraining
+    He initialization
+    LeCun initialization
+    Xavier initialization
+    keep probability
+    implementing Batch Normalization with
+    implementing dropout
+    transfer learning with
+    reusing pretrained
+    leaky ReLU function
+    learning rate scheduling
+    learning schedules
+    max-norm regularization
+    momentum optimization
+    momentum vector
+    Monte Carlo
+    MC
+    Nesterov Accelerated Gradient
+    NAG
+    Nesterov momentum optimization
+    nonsaturating activation functions
+    normalization
+    creating faster
+    first- and second-order partial derivatives
+    RMSProp
+    avoiding through regularization
+    parametric leaky ReLU
+    PReLU
+    performance scheduling
+    piecewise constant scheduling
+    power scheduling
+    on auxiliary tasks
+    unsupervised pretraining
+    randomized leaky ReLU
+    RReLU
+    avoiding overfitting through
+    second-order partial derivatives
+    Hessians
+    self-normalization
+    self-supervised learning
+    skip connections
+    smoothing term
+    sparse models
+    TensorFlow Model Optimization Toolkit
+    TF-MOT
+    versions covered
+    TensorFlow custom models and training
+    implementing learning rate scheduling
+    tf.keras
+    transfer learning
+    wall time

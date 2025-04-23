@@ -1,0 +1,128 @@
+hyperbolic tangent
+    tanh
+    Logistic
+    sigmoid
+    Rectified Linear Unit function
+    ReLU
+    softmax
+    softplus
+    fine-tuning hyperparameters
+    from biological to artificial neurons
+    implementing MLPs with Keras
+    artificial neurons
+    automatic differentiation
+    autodiff
+    AutoML
+    backpropagation
+    batch size
+    bias neurons
+    biological neural networks
+    BNN
+    biological neurons
+    break the symmetry
+    callbacks
+    chain rule
+    classification MLPs
+    image classifiers using Sequential APIs
+    multitask classification
+    connectionism
+    cross-entropy loss
+    log loss
+    mean absolute error
+    MAE
+    mean squared error
+    Fashion MNIST dataset
+    deep neural networks
+    DNNs
+    Deep Neuroevolution
+    dense layer
+    dynamic models
+    epochs
+    event files
+    Exclusive OR
+    XOR
+    feedforward neural networks
+    FNNs
+    forward pass
+    fully connected layer
+    Functional API
+    HDF5 format
+    Heaviside step function
+    Hebb's rule
+    Hebbian learning
+    hidden layers in MLPs
+    neurons per hidden layer
+    Huber loss
+    Hyperas
+    Hyperband
+    hyperbolic tangent function
+    Hyperopt
+    fine-tuning for neural networks
+    learning rate
+    Python libraries for optimization
+    image classification
+    using Sequential API
+    input layers
+    input neurons
+    complex architectures
+    implementing MLPs with
+    keras.callbacks package
+    loading datasets with
+    multibackend Keras
+    saving and restoring models
+    using code examples from keras.io
+    Keras Tuner
+    kopt library
+    dense
+    fully connected
+    hidden layer
+    input layer
+    output layer
+    logical computations
+    Microsoft Cognitive Toolkit
+    CNTK
+    complex using Functional API
+    dynamic using Subclassing API
+    saving and restoring
+    using callbacks
+    using TensorBoard for visualization
+    regression MLPs
+    multiple outputs
+    from biological to artificial
+    logical computations with
+    per hidden layer
+    nonsequential neural networks
+    installing
+    output layers
+    parameter efficiency
+    Perceptron
+    Perceptron convergence theorem
+    propositional logic
+    PyTorch library
+    regression MLPs using Sequential API
+    restoring models
+    reverse-mode autodiff
+    Perceptron class
+    Scikit-Optimize
+    TensorFlow
+    image classifiers
+    regression MLP
+    Sklearn-Deap
+    softmax function
+    softplus activation function
+    Spearmint library
+    step function
+    Subclassing API
+    summaries
+    symmetry breaking in backpropagation
+    Talos library
+    TensorBoard
+    TensorFlow Playground
+    PyTorch library and
+    tf.keras
+    tf.summary package
+    Theano
+    threshold logic unit
+    TLU
+    transfer learning
+    Wide & Deep neural networks

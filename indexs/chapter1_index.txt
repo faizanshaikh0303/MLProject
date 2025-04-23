@@ -1,0 +1,93 @@
+cross-validation
+    agents
+    clustering algorithms
+    hierarchical clustering algorithms
+    importance of data over
+    supervised learning
+    unsupervised learning
+    visualization algorithms
+    anomaly detection
+    restricted Boltzmann machines
+    RBMs
+    association rule learning
+    attributes
+    batch learning
+    Better Life Index
+    causal models
+    classification MLPs
+    corpus development
+    data mismatch
+    importance of over algorithms
+    noisy data
+    deep belief networks
+    DBNs
+    overfitting
+    development sets
+    dev sets
+    feature engineering
+    feature extraction
+    feature selection
+    features
+    final trained models
+    fitness functions
+    fully-specified model architecture
+    generalization error
+    hold outs
+    holdout validation
+    hyperparameters
+    hyperparameter tuning
+    learning rate
+    incremental learning
+    inference
+    instance-based learning
+    k-Nearest Neighbors regression
+    labels
+    linear models
+    classification with
+    Machine Learning
+    ML
+    testing and validating
+    measure of similarity
+    mini-batches
+    model parameters
+    model selection
+    model-based learning
+    training
+    No Free Lunch
+    NFL
+    novelty detection
+    offline learning
+    online learning
+    Optical Character Recognition
+    OCR
+    out-of-core learning
+    out-of-sample error
+    penalties
+    policies
+    prediction problems
+    regression problems
+    regularization
+    Reinforcement Learning
+    RL
+    responsibilities
+    clustering
+    rewards
+    sampling bias
+    sampling noise
+    linear model
+    semi-supervised learning
+    spam filters
+    test sets
+    train-dev sets
+    training data
+    irrelevant features
+    nonrepresentative
+    poor quality
+    underfitting
+    training instances
+    training samples
+    training sets
+    algorithms covered
+    common tasks
+    utility functions
+    validation sets

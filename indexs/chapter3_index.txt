@@ -1,0 +1,47 @@
+accuracy
+    cross-validation
+    area under the curve
+    AUC
+    binary classifiers
+    error analysis
+    multiclass classification
+    multilabel classification
+    multioutput classification
+    performance measures
+    confusion matrix
+    skewed datasets
+    decision function
+    F1 score
+    false positive rate
+    FPR
+    folds
+    Gradient Descent
+    GD
+    Stochastic Gradient Descent
+    harmonic mean
+    K-fold cross-validation
+    approaches to training
+    precision
+    recall
+    ROC curve
+    multinomial classifiers
+    randint() function
+    one-versus-all
+    OvA
+    one-versus-one
+    OvO
+    one-versus-the-rest
+    OvR
+    online learning
+    SGD
+    receiver operating characteristic
+    ROC
+    computing classifier metrics
+    cross_val_score() function
+    SGDClassifier class
+    sensitivity
+    training models
+    true negative rate
+    TNR
+    true positive rate
+    TPR

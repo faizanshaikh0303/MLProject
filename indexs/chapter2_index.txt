@@ -1,0 +1,86 @@
+cross-validation
+    evaluating
+    average absolute deviation
+    California Housing Prices dataset
+    MNIST dataset
+    components
+    correlation coefficient
+    mean absolute error
+    MAE
+    downloading
+    geographical data
+    data preparation
+    custom transformers
+    data cleaning
+    feature scaling
+    handling text and categorical attributes
+    transformation pipelines
+    data snooping bias
+    attribute combinations
+    computing correlations
+    test training and exploration sets
+    duck typing
+    dummy attributes
+    embedding
+    estimators
+    Euclidean norm
+    data downloading
+    data visualization
+    framing the problem
+    launching monitoring and maintaining
+    Machine Learning project checklist
+    model fine-tuning
+    model selection and training
+    project goals
+    selecting performance measure
+    verifying assumptions
+    exploration sets
+    folds
+    histograms
+    hyperparameter tuning
+    isolated environments
+    K-fold cross-validation
+    labels
+    Machine Learning
+    ML
+    Manhattan norm
+    RMSE
+    min-max scaling
+    model selection
+    fine-tuning
+    training
+    multiple regression problems
+    multivariate regression problems
+    normalization
+    dense arrays
+    installing
+    serializing large arrays
+    one-hot encoding
+    one-hot vectors
+    Pearson's r
+    pipelines
+    predictors
+    univariate regression problems
+    representation learning
+    Root Mean Square Error
+    converting text to numbers
+    dataset dictionary structure
+    design principles
+    GridSearchCV
+    K-fold cross-validation feature
+    mean_squared_error function
+    missing value handling
+    saving models
+    splitting datasets into subsets
+    stratified sampling
+    transformation sequences
+    transformers and
+    sparse matrix
+    standard correlation coefficient
+    standardization
+    tail-heavy histograms
+    deploying on AI platforms
+    test sets
+    example project
+    transformations
+    workspace creation

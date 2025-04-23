@@ -1,0 +1,90 @@
+softmax
+    adversarial learning
+    AlexNet
+    anchor boxes
+    autonomous driving systems
+    average pooling layer
+    Average Precision
+    AP
+    bottleneck layers
+    bounding box priors
+    classification and localization
+    color channels
+    convolution kernels
+    convolutional layer
+    filters
+    memory requirements
+    stacking multiple feature maps
+    TensorFlow implementation
+    architecture of visual cortex
+    CNN architectures
+    object detection
+    pooling layer
+    pretrained models for transfer learning
+    pretrained models from Keras
+    ResNet-34 using Keras
+    semantic segmentation
+    data augmentation
+    depth concat layer
+    depth radius
+    depthwise separable convolution
+    equivariance
+    feature maps
+    fully convolutional networks
+    FCNs
+    global average pooling layer
+    GoogLeNet
+    image generation
+    instance segmentation
+    invariance
+    implementing ResNet-34 with
+    using pretrained models from
+    LeNet-5
+    local response normalization
+    localization
+    Mask R-CNN
+    max pooling layer
+    mean Average Precision
+    mAP
+    mean average precision
+    RNNS
+    non-max suppression
+    You Only Look Once
+    YOLO
+    objectness output
+    pooling kernel
+    pretraining
+    models from Keras
+    recurrent neural networks
+    RNNs
+    Region Proposal Network
+    RPN
+    residual learning
+    residual units
+    ResNet
+    Residual Network
+    ResNet-34 CNN
+    SE block
+    SE-Inception
+    SE-ResNet
+    SENet
+    Squeeze-and-Excitation Network
+    separable convolution
+    sequences
+    shortcut connections
+    single-shot learning
+    skip connections
+    softmax function
+    stride
+    subsampling
+    convolution operations
+    convolutional layers
+    transfer learning
+    transposed convolutional layer
+    upsampling layer
+    VGGNet
+    WordTrees
+    Xception
+    Extreme Inception
+    zero padding
+    ZF Net

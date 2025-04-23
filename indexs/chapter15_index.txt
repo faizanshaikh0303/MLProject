@@ -1,0 +1,60 @@
+1D convolutional layers
+    recurrent
+    autoregressive integrated moving average
+    ARIMA
+    backpropagation through time
+    BPTT
+    basic cells
+    causal models
+    chatbots
+    mean squared error
+    decoders
+    differencing
+    encoders
+    Encoder–Decoder model
+    forecasting
+    forget gate
+    gate controllers
+    Gated Recurrent Unit
+    GRU
+    imputation
+    input and output sequences
+    input gate
+    Layer Normalization
+    1D convolutional layer
+    Logit Regression
+    see Logistic Regression
+    long sequences short-term memory problems
+    unstable gradients problem
+    Long Short-Term Memory
+    LSTM
+    memory cells
+    sequence-to-sequence models
+    training
+    multivariate time series
+    naive forecasting
+    natural language processing
+    NLP
+    recurrent neurons
+    output gate
+    peephole connections
+    forecasting time series
+    handling long sequences
+    recurrent neurons and layers
+    stateless and stateful
+    sequence-to-vector networks
+    handling long
+    input and output
+    short-term memory problems
+    time series data
+    baseline metrics
+    deep RNNS
+    forecasting several steps ahead
+    simple RNNs
+    time step
+    Turing test
+    univariate time series
+    unrolling the network through time
+    vector-to-sequence networks
+    WaveNet
+    weighted moving average model
